@@ -1,6 +1,3 @@
-tower-defense
-=============
-
 *****************************************************************
  COPYRIGHT (C):    2013, All Rights Reserved.
  PROJECT:          TowerDefense
@@ -75,7 +72,7 @@ tower-defense
  
  Thus, the following type strengths and weaknesses apply:
  
- Type		   | LArts | MatCs | Athlt | Humns | SoSci | LabSc
+ Type		| LArts | MatCs | Athlt | Humns | SoSci | LabSc
  -----------------------------------------------------------------
  Strength	| None  | LabSc | MatCs | Athlt | Humns | SoSci
  -----------------------------------------------------------------
@@ -98,11 +95,11 @@ tower-defense
  
   Type		| LArts | MatCs | Athlt | Humns | SoSci | LabSc
  -----------------------------------------------------------------
- Speed  	   | Med   | Med   | High  | Low   | Low   | Med
+ Speed  	| Med   | Med   | High  | Low   | Low   | Med
  -----------------------------------------------------------------
- Damage 	   | Low   | High  | Med   | High  | Low   | Low
+ Damage 	| Low   | High  | Med   | High  | Low   | Low
  -----------------------------------------------------------------
- Range  	   | Med   | Low   | Low   | Med   | HUGE  | High
+ Range  	| Med   | Low   | Low   | Med   | HUGE  | High
  
  By combining what you know of the stats of towers, the oncoming
  waves, and unit weaknesses, you can stop the Oles with as few
